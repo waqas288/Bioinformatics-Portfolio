@@ -1,10 +1,5 @@
-Here's a professional **README** file for your **Single Cell Analysis** Jupyter Notebook. You can save this as a `README.md` file in your repository. 🚀  
-
----
-
 # **Single Cell Analysis in Python 🧬**  
 
-![Single Cell Analysis](https://upload.wikimedia.org/wikipedia/commons/4/4c/Single_Cell_Analysis.jpg)  
 
 ## **📌 Overview**  
 This repository contains a **Jupyter Notebook** for **Single Cell RNA Sequencing (scRNA-seq) Analysis** using Python. The analysis focuses on preprocessing, quality control, normalization, clustering, and visualization of single-cell transcriptomics data, enabling insights into cellular heterogeneity and gene expression patterns at a single-cell resolution.  
